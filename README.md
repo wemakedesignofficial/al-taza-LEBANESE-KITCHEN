@@ -14,9 +14,9 @@ Open http://localhost:8000. No build step or dependencies are required. Google F
 
 ## Demo
 
-https://al-taza-fresh-demo.domgo687.chatgpt.site
+https://wemakedesignofficial.github.io/al-taza-LEBANESE-KITCHEN/
 
-The Sites deployment currently requires owner access.
+Hosted with GitHub Pages from the `docs/` directory on `main`. Updates to this directory publish automatically.
 
 ## Features
 
@@ -28,3 +28,4 @@ The Sites deployment currently requires owner access.
 The editable site is in `https-al-taza-com-https-al/outputs/al-taza-demo/dist`.
 
 This is an independent concept for discussion, not Al Taza's official website. Prices, outlet information, and branding require approval and verification before production. Ordering links currently guide visitors to outlets rather than processing orders.
+
